@@ -1,4 +1,4 @@
 # Python
 Python projects
--Mammographic masses prediction
--Movie recommendation
+- Mammographic masses prediction
+- Movie recommendation
